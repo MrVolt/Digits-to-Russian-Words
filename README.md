@@ -2,8 +2,6 @@
 
 
 ```
-#!java
-
 //Digits
 String line = "1234567890";
 
@@ -20,8 +18,6 @@ Only russian language.
 # **Как использовать** #
 
 ```
-#!java
-
 //Digits
 String line = "1234567890";
 
